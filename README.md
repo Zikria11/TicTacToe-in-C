@@ -40,19 +40,19 @@ Installation
 1.  **Install Raylib**:
     
     *   Follow the official [Raylib installation guide](https://www.raylib.com/) for your platform.
-        
-    *   sudo apt-get install libraylib-dev
-        
+      ``` bash  
+       sudo apt-get install libraylib-dev
+      ```  
 2.  **Compile the Game**:
     
     *   Save the provided C++ code in a file, e.g., tictactoe.cpp.
-        
-    *   g++ tictactoe.cpp -o tictactoe -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-        
+      ``` bash  
+       g++ tictactoe.cpp -o tictactoe -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+      ```  
 3.  **Run the Game**:
-    
-    *   ./tictactoe
-        
+    ``` bash
+     ./tictactoe
+    ```    
 
 How to Play
 -----------
