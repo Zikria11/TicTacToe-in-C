@@ -135,6 +135,11 @@ Future Enhancements
     
 *   Add a score tracker for multiple rounds.
     
+## Screenshots
+<img width="792" height="828" alt="image" src="https://github.com/user-attachments/assets/b3847733-1ef1-42fe-847f-c345475c5a4d" />
+<img width="797" height="833" alt="image" src="https://github.com/user-attachments/assets/78647f2d-f89b-4438-a1e1-bef54bed3c03" />
+
+
 
 Dependencies
 ------------
